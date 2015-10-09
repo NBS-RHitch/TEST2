@@ -7,6 +7,7 @@ namespace SBOAddonProject1
 {
     class Menu
     {
+        // coment
         public void AddMenuItems()
         {
             SAPbouiCOM.Menus oMenus = null;
