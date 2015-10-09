@@ -1,0 +1,14 @@
+G:\VS Projects\TEST\SBOAddonProject1\SBOAddonProject1\bin\Debug\SBOAddonProject1.exe
+G:\VS Projects\TEST\SBOAddonProject1\SBOAddonProject1\bin\Debug\SBOAddonProject1.pdb
+G:\VS Projects\TEST\SBOAddonProject1\SBOAddonProject1\obj\Debug\SBOAddonProject1.csprojResolveAssemblyReference.cache
+G:\VS Projects\TEST\SBOAddonProject1\SBOAddonProject1\obj\Debug\SBOAddonProject1.exe
+G:\VS Projects\TEST\SBOAddonProject1\SBOAddonProject1\obj\Debug\SBOAddonProject1.pdb
+G:\VS Projects\TEST\2Projects\SBOAddonProject1\SBOAddonProject1\obj\Debug\SBOAddonProject1.exe
+G:\VS Projects\TEST\2Projects\SBOAddonProject1\SBOAddonProject1\obj\Debug\SBOAddonProject1.pdb
+G:\VS Projects\TEST\2Projects\SBOAddonProject1\obj\Debug\SBOAddonProject1.exe
+G:\VS Projects\TEST\2Projects\SBOAddonProject1\obj\Debug\SBOAddonProject1.pdb
+G:\VS Projects\TEST\2Projects\SBOAddonProject1\bin\Debug\SBOAddonProject1.exe
+G:\VS Projects\TEST\2Projects\SBOAddonProject1\bin\Debug\SBOAddonProject1.pdb
+G:\VS Projects\TEST\2Projects\SBOAddonProject1\obj\Debug\SBOAddonProject1.csprojResolveAssemblyReference.cache
+G:\VS Projects\TEST2\SBOAddonProject1\obj\Debug\SBOAddonProject1.exe
+G:\VS Projects\TEST2\SBOAddonProject1\obj\Debug\SBOAddonProject1.pdb

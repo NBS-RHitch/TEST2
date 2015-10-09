@@ -1,0 +1,10 @@
+G:\VS Projects\TEST\SAPaddOn\SBOAddonProject2\SBOAddonProject2\bin\Debug\SBOAddonProject2.exe.config
+G:\VS Projects\TEST\2Projects\SBOAddonProject2\bin\Debug\SBOAddonProject2.exe.config
+G:\VS Projects\TEST\2Projects\SBOAddonProject2\bin\Debug\SBOAddonProject2.exe
+G:\VS Projects\TEST\2Projects\SBOAddonProject2\bin\Debug\SBOAddonProject2.pdb
+G:\VS Projects\TEST\2Projects\SBOAddonProject2\obj\Debug\SBOAddonProject2.csprojResolveAssemblyReference.cache
+G:\VS Projects\TEST\2Projects\SBOAddonProject2\obj\Debug\SBOAddonProject2.Form1.resources
+G:\VS Projects\TEST\2Projects\SBOAddonProject2\obj\Debug\SBOAddonProject2.Properties.Resources.resources
+G:\VS Projects\TEST\2Projects\SBOAddonProject2\obj\Debug\SBOAddonProject2.csproj.GenerateResource.Cache
+G:\VS Projects\TEST\2Projects\SBOAddonProject2\obj\Debug\SBOAddonProject2.exe
+G:\VS Projects\TEST\2Projects\SBOAddonProject2\obj\Debug\SBOAddonProject2.pdb
